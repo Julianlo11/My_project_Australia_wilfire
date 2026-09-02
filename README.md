@@ -4,7 +4,7 @@ An interactive dashboard built with Python, Dash, Plotly, and Pandas to analyze 
 
 The dashboard allows users to explore wildfire data by Australian region and year, providing visualizations of the estimated fire area and the number of pixels associated with presumed vegetation fires.
 
-📊 Dashboard LINK VIRTUAL (http://127.0.0.1:8050/)
+📊 Dashboard LINK VIRTUAL (https://my-project-8tmn.onrender.com/)
 
 The dashboard provides two interactive visualizations:
 
